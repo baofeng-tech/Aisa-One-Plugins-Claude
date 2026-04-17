@@ -1,2 +1,2 @@
-# Aisa-One-Plugin-Claude
-Aisa-One-Plugin-Claude
+# Aisa-One-Plugins-Claude
+Aisa-One-Plugins-Claude
